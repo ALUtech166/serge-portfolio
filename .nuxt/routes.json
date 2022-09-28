@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\MEG\\\\Desktop\\\\nuxtjs-tailwindcss-portfolio\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\MEG\\\\Desktop\\\\nuxtjs-tailwindcss-portfolio\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "C:\\\\Users\\\\MEG\\\\Desktop\\\\nuxtjs-tailwindcss-portfolio\\\\pages\\\\projects\\\\index.vue",
+    "chunkName": "pages/projects/index"
+  },
+  {
+    "name": "projects-id",
+    "path": "/projects/:id",
+    "component": "C:\\\\Users\\\\MEG\\\\Desktop\\\\nuxtjs-tailwindcss-portfolio\\\\pages\\\\projects\\\\_id.vue",
+    "chunkName": "pages/projects/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\MEG\\\\Desktop\\\\nuxtjs-tailwindcss-portfolio\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
